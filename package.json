@@ -1,0 +1,19 @@
+{
+  "name": "redux-react-example",
+  "version": "1.0.0",
+  "description": "Implementation of TODO list example in Redux documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjaca10/redux-react-example.git"
+  },
+  "author": "Javier Aguila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjaca10/redux-react-example/issues"
+  },
+  "homepage": "https://github.com/sjaca10/redux-react-example#readme"
+}
